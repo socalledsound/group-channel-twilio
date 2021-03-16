@@ -1,0 +1,6 @@
+export const UsersActionTypes = {
+    ADD_USER : 'ADD_USER',
+    REMOVE_USER : 'REMOVE_USER',
+    TOGGLE_USER_MIC : 'TOGGLE_USER_MIC',
+    TOGGLE_USER_LISTENING : 'TOGGLE_USER_LISTENING',
+}
